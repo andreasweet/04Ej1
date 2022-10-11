@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">04-Ej1</string>
+    <string name="direccion">Dirección</string>
+    <string name="numero">Número</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="provincia">Provincia</string>
+    <string name="cp">Código Postal</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="crear">Crear</string>
+    <string-array name="spinner_ciudad">
+        <item>Selecciona una ciudad</item>
+        <item>Madrid</item>
+        <item>Valencia</item>
+        <item>Valladolid</item>
+        <item>Barcelona</item>
+    </string-array>
+</resources>
